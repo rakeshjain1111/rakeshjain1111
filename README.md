@@ -1,4 +1,4 @@
-[<img src="https://awesome-svg.vercel.app/card/card_2?name=Rakesh%20Jain&summary=Software%20Developer&style=nameColor:rgba(17,133,228,1);summaryColor:rgba(255,21,93,1);backgroundColor:rgba(255,255,255,1);" />](https://rakeshjain1111.github.io) 
+[<img src="https://awesome-svg.vercel.app/card/card_2?name=Rakesh%20Jain&summary=Software%20Developer&style=nameColor:rgba(80,122,200,1);summaryColor:rgba(255,110,93,100);backgroundColor:rgba(255,200,255,1);" />](https://rakeshjain1111.github.io) 
 
 
 
