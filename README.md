@@ -6,7 +6,6 @@
 
 - 👨🏽‍💻 Currently, I am focused on learning and improving my skills in React JS/Node JS, competitive coding, and data structures and algorithms.
 - 😊 Willing to contribute in opensource development projects.
-- 👨 Know more about me, - 🌐 Visit my [Portfolio website](http://rakeshjain.vercel.app/) for complete background and contact.
 
 
 
